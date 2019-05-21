@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sped", "Sped\Sped.csproj", "{2CB30908-53DF-46F1-8E25-1A2AA8C1ED89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{5561EA44-4A95-4F48-AE07-502DFCCE0F2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web", "Web\Web.csproj", "{2D35CB05-40E9-4EC7-881E-4B78D4B357D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CB30908-53DF-46F1-8E25-1A2AA8C1ED89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CB30908-53DF-46F1-8E25-1A2AA8C1ED89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CB30908-53DF-46F1-8E25-1A2AA8C1ED89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CB30908-53DF-46F1-8E25-1A2AA8C1ED89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5561EA44-4A95-4F48-AE07-502DFCCE0F2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5561EA44-4A95-4F48-AE07-502DFCCE0F2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5561EA44-4A95-4F48-AE07-502DFCCE0F2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5561EA44-4A95-4F48-AE07-502DFCCE0F2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D35CB05-40E9-4EC7-881E-4B78D4B357D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D35CB05-40E9-4EC7-881E-4B78D4B357D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D35CB05-40E9-4EC7-881E-4B78D4B357D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D35CB05-40E9-4EC7-881E-4B78D4B357D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
